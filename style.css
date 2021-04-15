@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(42 202 245 / 77%);
+    font: 1.2em sans-serif;
+    padding:5px;
+    font-size: 20px;
+}
+label{
+    background-color: rgb(44, 150, 174);
+    padding: 5px;
+    border-radius: 10px;
+    border: 10px;
+    margin-top: 5px;
+}
+input{
+    background-color: rgb(155, 133, 187);
+    border-radius: 10px;
+}
+h1{
+    background-color: rgba(205, 243, 67, 0.932);
+}
+/* button{
+    font-size: 40px;
+    background-color: rgb(203, 221, 40);
+    border-radius: 10px;
+}
+button:hover {
+    background-color: rgb(189, 189, 7);
+  } */
+a{
+    background-color: rgb(236, 248, 15);
+}
